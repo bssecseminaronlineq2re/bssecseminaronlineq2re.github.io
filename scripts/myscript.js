@@ -1,1 +1,3 @@
-document.body.style.backgroundColor = "red"; 
+window.onload = function() {
+	document.body.style.backgroundColor = "red"; 
+}
